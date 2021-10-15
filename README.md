@@ -1,2 +1,2 @@
-# tutorial_nn_airshowers
-Train neural networks to reconstruct air-shower properties using detector responsed measured at a ground-based observatory
+# Air shower reconstruction using deep neural networks
+Train neural networks to reconstruct air-shower properties using detector response measured at a ground-based observatory.
