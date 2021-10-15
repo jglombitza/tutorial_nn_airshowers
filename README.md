@@ -3,3 +3,5 @@ Train neural networks to reconstruct air-shower properties using detector respon
 
 Each particle detector measures two quantities that are stored in the form of a cartesian image (2D array with 14 x 14 pixels).
 We will use these images to train neural networks to reconstruct the energy of the events.
+
+![Screenshot](footprint.png)
