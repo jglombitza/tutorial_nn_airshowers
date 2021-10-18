@@ -9,8 +9,7 @@ We will use these images to train neural networks to reconstruct the energy of t
 ## Tutorial
 We will use [jupyter](https://jupyter.org/) notebooks in the tutorial. As deep learning framework [Keras](https://keras.io/) is used.
 
-For training the DNNs, we use Google colab, where we can accelerate the training using a GPU.
-For opening the jupyter in colab, just click on the respective badge.
+For training the DNNs, we use Google cola to accelerate the training using a GPU. For opening the jupyter in colab, just click on the respective badge.
 
 You can access the slides for the tutorial at:
 
