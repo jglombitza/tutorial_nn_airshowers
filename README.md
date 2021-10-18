@@ -18,9 +18,10 @@ Find more examples for deep learning in physics at www.deeplearningphysics.org/.
 ## Fully-connected network
 Train a **fully-connected network** to reconstruct the energy of a cosmic-ray-induced air shower.  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jglombitza/tutorial_nn_airshowers//blob/master/fully_connected.ipynb)
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/tutorial_nn_airshowers//blob/master/fully_connected.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
 
 ## Convolutional neural network
 Train a **convolutional neural network** to reconstruct the energy of a cosmic-ray-induced air shower.  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jglombitza/tutorial_nn_airshowers//blob/master/convolutional.ipynb)
+
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/tutorial_nn_airshowers//blob/master/convolutional.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
