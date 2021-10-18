@@ -1,4 +1,4 @@
-![Example Event](footprint.png)
+![Example Event](images/footprint.png)
 
 # Air shower reconstruction using deep neural networks
 Train neural networks to reconstruct air-shower properties using detector responses measured at a hypothetic cosmic-ray observatory located at a high of 1400 m. The observatory features a cartesian array of 14 x 14 particle detectors with a distance of 750 m.
