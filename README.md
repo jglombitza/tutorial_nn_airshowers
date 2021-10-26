@@ -15,6 +15,9 @@ You can access the slides for the tutorial at:
 
 Find more examples for deep learning in physics at www.deeplearningphysics.org/.
 
+## Neural Network Playground
+Open the neural network playground at: https://playground.tensorflow.org and train your first neural network
+
 ## Fully-connected network
 Train a **fully-connected network** to reconstruct the energy of a cosmic-ray-induced air shower.  
 
