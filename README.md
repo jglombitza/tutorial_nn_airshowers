@@ -1,3 +1,5 @@
+##### Link to CIFAR-10 example (regression) --> https://github.com/jglombitza/cifar_tutorial
+
 ![Example Event](images/footprint.png)
 
 # Air shower reconstruction using deep neural networks
